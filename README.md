@@ -23,7 +23,7 @@ Como o curso estava desatualizado, criei duas soluções, "old_expo_orgs_cesta" 
 # Ferramentas, Recursos e Processos Utilizados
 - IDE: [Visual Studio Code](https://code.visualstudio.com/)
 - Node: [Node.js v20.14.0](https://nodejs.org/en)
-- Node: [Node.js v20.14.0](https://nodejs.org/en)
+- Node: [Node.js v16.20.2](https://nodejs.org/en)
 - Node Version Manager: [NVM](https://github.com/nvm-sh/nvm?tab=readme-ov-file#node-version-manager---)
   - Windows Subsytem for Linux: [WSL](https://learn.microsoft.com/pt-br/windows/wsl/install)
 - Markdown + Visual Studio Code: [Markdown](https://code.visualstudio.com/docs/languages/markdown)
@@ -39,6 +39,7 @@ Como o curso estava desatualizado, criei duas soluções, "old_expo_orgs_cesta" 
 ## Conceitos
 - npx: Gerenciador de pacotes do node para recursos REMOTOS
 - npm: Gerenciador de pacotes do node para recursos LOCAIS
+- JSX: "Mistura de Javascript com XML"
 
 ## Comandos Utilizados
 ### Preparação do Ambiente
@@ -97,6 +98,6 @@ Como o curso estava desatualizado, criei duas soluções, "old_expo_orgs_cesta" 
 ---
 
 # Links Úteis
-- Documentação do [React Native](https://reactnative.dev/docs/getting-started)
+- Documentação do [React Native](https://reactnative.dev/docs/getting-started#function-components-and-class-components)
 - Documentação do [Expo](https://docs.expo.dev/tutorial/introduction/)
   - Evolução "expo >>> npx expo" [Expo Local](https://blog.expo.dev/the-new-expo-cli-f4250d8e3421)
