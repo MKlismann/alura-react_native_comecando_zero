@@ -7,7 +7,11 @@ Esta aplicação foi desenvolvida no "Curso de React Native: criando um app" da 
     - Limitações do Expo CLI x React Native CLI
     - Live Reloading
     - Componentes
-    - Estilização
+      - Agrupamento de Componentes com "<></>"
+      - SafeAreaView: Componente importante que delimita uma região fora do "notch" em dispositivos IOS.
+      - Dimensions: Para recuperar as informações da tela do dispositivo móvel.
+      - Image: Para trabalhar com imagens.
+      - StyleSheet: Para trabalhar com a estilização dos componentes.
     - Google Fontes
   - Utilizei o Expo CLI para rodar a aplicação em meu próprio dispositivo móvel (e não precisar inicialmente de configurações complexas de ambiente de desenvolvimento com emuladores e etc.)
   - Analisei a estrutura de um projeto Expo:
@@ -35,6 +39,7 @@ Como o curso estava desatualizado, criei duas soluções, "old_expo_orgs_cesta" 
 # Base de Conhecimento
 ## Dicas
 - "./" quer dizer "a partir de onde eu estou"
+- "../" quer dizer "pasta anterior a aprtir de onde eu estou"
 
 ## Conceitos
 - npx: Gerenciador de pacotes do node para recursos REMOTOS
